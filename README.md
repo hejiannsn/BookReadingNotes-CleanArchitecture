@@ -1,7 +1,7 @@
 # BookReadingNotes-CleanArchitecture
 《架构整洁之道》读书笔记
 
-<img src="./s29943454.jpg" title="代码整洁之道" width=300>
+<img src="./cover.jpg" title="代码整洁之道" width=300>
 
 ---
 ## 第1部分 概述
